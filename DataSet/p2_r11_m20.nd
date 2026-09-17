@@ -1,0 +1,12 @@
+"NDInfoFile", Version 2.0
+"Description", 
+"StartTime1", 20220415 11:46:39
+"DoTimelapse", TRUE
+"NTimePoints", 86
+"DoStage", FALSE
+"DoWave", FALSE
+"NWavelengths", 0
+"DoZSeries", FALSE
+"WaveInFileName", FALSE
+"NEvents", 0
+"EndFile"
