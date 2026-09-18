@@ -206,7 +206,7 @@ The repository contains a folder `Dataset` with a typical FRAP experiment (`p2_r
 
 - **Romain Le Bars** – design and development (romain.lebars@i2bc.paris-saclay.fr)
 - **Christophe Klein** – methodological advice (christophe.klein@crc.jussieu.fr)
-- **Sylvain Jeannin** – testing and validation
+- **Sylvain Jeannin** – testing and validation (sylvain.jeannin@inserm.fr)
 
 ---
 
