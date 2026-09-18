@@ -4,6 +4,7 @@
 
 Quantitative analysis of **Fluorescence Recovery After Photobleaching (FRAP)** Designed for experiments acquired with **MetaMorph**.  ! Might request some adjustments for other image types !
 
+![NRLB-FRAP Overview Process](./Overview.png)
 ---
 
 ## Table of Contents
