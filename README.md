@@ -1,6 +1,7 @@
 ﻿# RLB FRAP – ImageJ/Fiji Macro
 
-*Version 1.0* – *MIT licence*
+*Version 1.0* – *MIT licence
+[![DOI](https://zenodo.org/badge/1375039022.svg)](https://doi.org/10.5281/zenodo.23222413)
 
 Quantitative analysis of **Fluorescence Recovery After Photobleaching (FRAP)** Designed for experiments acquired with **MetaMorph**.  ! Might request some adjustments for other image types !
 
