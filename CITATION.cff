@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it using the following DOI."
+title: "RLB-FRAP"
+authors:
+  - given-names: Romain
+    family-names: LE BARS
+    affiliation: CNRS
+    orcid: "https://orcid.org/0000-0002-6605-391X"
+version: "1.0"
+date-released: 2026-10-07
+doi: 10.5281/zenodo.23222414
+url: "https://github.com/Rom-LB/RLB-FRAP"
+license: "MIT"
