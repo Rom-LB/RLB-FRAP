@@ -203,6 +203,12 @@ The repository contains a folder `Dataset` with a typical FRAP experiment (`p2_r
 
 ## 9. Citation & Acknowledgements
 
+**Citation**
+
+If you use this code, please cite as follow :
+LE BARS, R. (2026). *RLB-FRAP* (Version 1.0.0) [Logiciel]. Zenodo. https://doi.org/10.5281/zenodo.23222413
+
+
 **Authors & acknowledgements**
 
 - **Romain Le Bars** – design and development (romain.lebars@i2bc.paris-saclay.fr)
